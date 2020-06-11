@@ -121,7 +121,6 @@
 ./images/1/2-63.png
 ./images/1/2-67.png
 ./images/1/4-71.png
-./images/1/classes.png
 ./images/1/4-36.png
 ./images/1/2-81.png
 ./images/1/8-16.png
