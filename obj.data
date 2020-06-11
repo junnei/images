@@ -1,0 +1,5 @@
+classes= 1
+train = images/train.txt  
+valid = images/valid.txt  
+names = obj.names
+backup = backup/
