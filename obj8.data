@@ -1,0 +1,5 @@
+classes= 1
+train = images/train8.txt  
+valid = images/valid8.txt  
+names = images/obj.names
+backup = backup/8/
