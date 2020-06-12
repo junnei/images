@@ -2,4 +2,4 @@ classes= 1
 train = images/train16.txt  
 valid = images/valid16.txt  
 names = images/obj.names
-backup = backup/16/
+backup = backup/16
